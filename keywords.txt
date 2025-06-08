@@ -1,0 +1,16 @@
+#######################################
+# Syntax Highlighting for SmartUltrasonic Library
+#######################################
+
+# Class Names (KEYWORD1 = Orange)
+SmartUltrasonic	KEYWORD1
+SensorReading	KEYWORD1
+
+# Methods and Functions (KEYWORD2 = Brown)
+begin	KEYWORD2
+update	KEYWORD2
+startMeasurement	KEYWORD2
+isReady	KEYWORD2
+getReading	KEYWORD2
+isMobile	KEYWORD2
+verifyLastPrediction	KEYWORD2
